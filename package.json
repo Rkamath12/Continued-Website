@@ -1,0 +1,19 @@
+{
+  "name": "ERecipe",
+  "description": "APP",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o public/css --recursive"
+  },
+  "author": "Cognitive Coders",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "firebase": "^5.9.1",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.11.0",
+    "popper.js": "^1.14.7",
+    "sass": "^1.17.3"
+  },
+  "devDependencies": {}
+}
